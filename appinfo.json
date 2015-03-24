@@ -1,0 +1,40 @@
+{
+    "appKeys": {
+        "assignmentFour": 9,
+        "assignmentOne": 6,
+        "assignmentThree": 8,
+        "assignmentTwo": 7,
+        "book": 1,
+        "chapter": 2,
+        "chapterName": 11,
+        "day": 10,
+        "dummy": 0,
+        "passage": 5,
+        "searchtype": 4,
+        "verse": 3
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "RocketMan's Endeavours",
+    "longName": "Bible",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/holy_bible.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Bible",
+    "uuid": "d2e3253f-068b-4d0d-ad2c-9c9cdb6fa491",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
